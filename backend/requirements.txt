@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+openai
+sentence-transformers
+python-dotenv
+deep-translator
